@@ -4,8 +4,6 @@ This is a meme generator that can generate Stickers of the Simpsons via Wechat S
 
 > Google ML Winter Camp (Beijing) 2020，Team members: Fang Liu, Zeyu Yang, Zhengqi Yong
 
-![Pipeline](https://life.qizy.tech/wp-content/uploads/2020/01/pipeline.png)
-
 ## Getting Started
 
 ### Requirement
