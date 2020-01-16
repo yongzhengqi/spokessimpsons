@@ -1,16 +1,15 @@
-# web
+# spokessimpsons - web - frontend
 
-A new Flutter project.
+## Introduction
+
+We use flutter web to write our frontend. I used flutter to write mobile apps. And it works basiclly butifully fine. But, flutter web, emmmm, well, it does is in early beta test.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Run `flutter build web`. And generated content will be stored at `build/web`.
+2. Copy all the file inside `build/web` to your server. Config Nginx.
+3. Open your browser and enjoy it. ;)
 
-A few resources to get you started if this is your first Flutter project:
+## Credits
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* https://flutter.dev/
