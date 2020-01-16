@@ -52,7 +52,7 @@ def img2text(img_path):
     print('step 1: ocr')
     # step 1: from image to text_list
     ## input : img_path
-    ## output : chat list for my_chats & other_chats
+    ## output : chat list for chats
 
     other_chats = ocr(img_path)
     f = open('tmp/input.txt','w')
@@ -80,12 +80,12 @@ def text2img(input_text):
     print('step 3: generate stickers from input text')
     # step 3: from input_text to 3 stickers
     ## input: input_text
-    ## output: 3 pairs of (quote, img_path), first quote is input_text
+    ## output: 3 pairs of stickers
 
     corpus_dir = '/root/text_emotion/corpus.csv'
     text = input_text
 
-    t = time.time() # timestamp for name the pics
+    t = time.time() # timestamp to name the pics
 
     img_candidates = []
 
