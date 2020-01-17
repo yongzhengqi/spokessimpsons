@@ -36,13 +36,13 @@ This project is licensed under the MIT License
 
 * <https://github.com/omar178/Emotion-recognition>
 
+* [https://github.com/sirfz/tesserocr](https://github.com/sirfz/tesserocr)
+
 * Klein, Guillaume , et al. "OpenNMT: Open-Source Toolkit for Neural Machine Translation." (2017).
 
 * Reimers, Nils, and Iryna Gurevych. "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks." *(EMNLP-IJCNLP)*. 2019.
 
 * Tian, Zhi, et al. "Detecting text in natural image with connectionist text proposal network." European conference on computer vision. Springer, Cham, 2016.
-
-* [https://github.com/sirfz/tesserocr](https://github.com/sirfz/tesserocr)
 
 ## Demo
 
