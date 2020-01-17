@@ -42,3 +42,5 @@ This project is licensed under the MIT License
 
 * Tian, Zhi, et al. "Detecting text in natural image with connectionist text proposal network." European conference on computer vision. Springer, Cham, 2016.
 
+## Demo
+
