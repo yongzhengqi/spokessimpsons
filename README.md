@@ -26,7 +26,7 @@ Install ` OpenNMT-py ` from ` pip ` :
 
 ## Contributing
 
-Please read [Poster.pdf](https://) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Poster.pdf](https://github.com/yongzhengqi/spokessimpsons/blob/master/Poster.pdf) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
