@@ -34,9 +34,9 @@ This project is licensed under the MIT License
 
 ## Reference
 
-* <https://github.com/omar178/Emotion-recognition>
-
 * [https://github.com/sirfz/tesserocr](https://github.com/sirfz/tesserocr)
+
+* <https://github.com/omar178/Emotion-recognition>
 
 * Klein, Guillaume , et al. "OpenNMT: Open-Source Toolkit for Neural Machine Translation." (2017).
 
