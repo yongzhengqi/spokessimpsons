@@ -44,5 +44,5 @@ This project is licensed under the MIT License
 
 ## Demo
 
-![image](qrcode.png =250*250)
+![avatar](qrcode.png)
 
